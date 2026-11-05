@@ -1,0 +1,18 @@
+# Build and IDE output
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+publish/
+运行程序/
+
+# Local measurements and generated reports
+Data/
+data/
+sample-backup/
+*.csv
+*.zip
+*.log
+.env
+.env.*
